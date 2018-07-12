@@ -1,3 +1,5 @@
+package Res;
+
 public class Player
 {
     //data of the player ship
